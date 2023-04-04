@@ -40,6 +40,88 @@ Dopo il dottorato, dal 2018 ho iniziato a lavorare per MFL X dove lavoro tutt'or
 
 - Sistema di visione per il monitoraggio della qualità del prodotto. Si sono applicate e sviluppate el conosceinze relative a reti neurali  per quanti riguarda lo sviluppo dell'algoritmo. Mi sono occupato della scelta delle camere, ottiche e illuminatori e hardware computazionale oltre che seguire il prpogetto e la realizzazione della struttura fisica del dispositivo stesso. Il sistema sistema si basa su un archietettura a microsevizi docker che si intefaccia con la liena di produzione stessa. Inoltre abbiamo anche sviluppato una intefaccia web per interagire con lo strumento (python flask + javascript + html + css). Questo dispositivo è stato anche soggetto di un brevetto internazionale dal titolo "Metodo e apparato per il controllo della qualità di produzione di cavi provvisiti di guaina protettiva, in particolare di cavi elettrici", di cui sono uno dei 2 inventori. Il brevetto è depositato a nome SEMPLICE SPA. 
 
+Droghini, D. (2019, June 27). US20200408696A1 - Method and apparatus for checking the production quality of cables that are provided with a protective sheath, in particular electrical cables          - Google Patents. https://patents.google.com/patent/US20200408696A1/en
+
+- Sviluppo di una applicazione web IIoT per il monitoriaggio delle linee di produzione offerto ai clienti come SaaS. Il sistema è basato su edge device + cloud.
+La parte edge è deployata su Siemens Industrial IPC con architettura a microservizi docker.
+La parte cloud è multipiattaforma: midnphere o azure.
+Durante il progetto ho potuto approfondire i seguenti argomenti/strumenti:
+    - microservizi basati su docker e loro orchestrazione
+    - CI/CD e sviluppo di relative pipeline (in particlare tramite bitbucket)
+    - monitoraggio flotta edge (portainer)
+    - Piattafroma Minsphere (conoscenza approfondita delle API)
+    - Azure (instanziare e gestire virtual machine, iotHub, blob storage, redis cache,...)
+    
+- Sviluppo di un chatbot basato su LLM (azure openAI) per Q&A su manuali macchina. In questo prgoetto ho approfondito i seguenti tools/librerie: azure cognitive services, azure OpenAI, langChain.
+
+Conosco i seguenti linguaggi di programmazione (in ordine di competenza): python, C, C++, matlab, javascript, html, node.js.
+
+Conosco e ho lavorato molto con le seguenti librerie python: tensorflow, keras, opencv, scipy, numpy, langchain, pytorch, pandas
+
+Ho lavorato con i seguenti tool/piattaforme/ide: wandb, dogshub, azure (cli, active directory, blob storage, redis cache, iothub, virtual machine, container registry), git, bitbuket, gitkraken, pycharm, vscode.
+
+per il managmenet dei progetti ho utilizzato piattaforme come microsoft teams, slack, jira.
+
+Ho un ottima conoscenza dedlla piattraforma Linux e derivate (ho sempre utilizzato piattaforme linux per lo sviluppo) e windows.
+
+Principali database: mongodb, sql, influxdb, parquet
+
+Riconosciementi: vincitore del premio "Best Presentation" @ Pattern Recognition And Artificial Inteligence (PRAI 2018) @ Keen University, Union, New Jersey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ho conseguito un PhD in Intelligenza artificale nel quale mi sono occupato di computational audio processing, nello specifico di sistemi autonomi per il rilevamento  delle cadute di umani utilizzando reti neurali. 
+In questo periodo ho approfondito principalmente diverse architetture di reti neurali tra cui:
+- CNN
+- Siamese Neural Network
+- Autoencoder
+e algoritmi quali:
+- SVC 
+- OCSVC
+- Gaussian Mixture Model
+e svolto attivita di sviluppo relative all'ambito IoT e interoperabilità di sistemi domotici.
+Dirante il dottorato ho effettuato svariate pubblicazione su riviste e conferenze:
+
+- Principi, Emanuele, Diego, Droghini, Stefano, Squartini, Paolo, Olivetti, and Francesco, Piazza. "Acoustic cues from the floor: a new approach for fall classification".Expert Systems with Applications 60 (2016): 51–61.
+
+Dopo il dottorato, dal 2018 ho iniziato a lavorare per MFL X dove lavoro tutt'ora. Qui mi sono occupato di sfruttare le tecnologie esponenziali per progettare e costruire macchine industriali intelligenti. In particolare ho sviluppato e gestito i seguenti progetti:
+
+- Sistema di visione per il monitoraggio della qualità del prodotto. Si sono applicate e sviluppate el conosceinze relative a reti neurali  per quanti riguarda lo sviluppo dell'algoritmo. Mi sono occupato della scelta delle camere, ottiche e illuminatori e hardware computazionale oltre che seguire il prpogetto e la realizzazione della struttura fisica del dispositivo stesso. Il sistema sistema si basa su un archietettura a microsevizi docker che si intefaccia con la liena di produzione stessa. Inoltre abbiamo anche sviluppato una intefaccia web per interagire con lo strumento (python flask + javascript + html + css). Questo dispositivo è stato anche soggetto di un brevetto internazionale dal titolo "Metodo e apparato per il controllo della qualità di produzione di cavi provvisiti di guaina protettiva, in particolare di cavi elettrici", di cui sono uno dei 2 inventori. Il brevetto è depositato a nome SEMPLICE SPA. 
+
 - Sviluppo di una applicazione web IIoT per il monitoriaggio delle linee di produzione offerto ai clienti come SaaS. Il sistema è basato su edge device + cloud.
 La parte edge è deployata su Siemens Industrial IPC con architettura a microservizi docker.
 La parte cloud è multipiattaforma: midnphere o azure.

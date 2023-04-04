@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Diego Droghini's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Droghini Diego
+Expert in Machine Learning, IIoT, Audio and Image Processing, with a strong background in computer science and engineering. Experienced in developing algorithms and models for data analysis, pattern recognition, and predictive maintenance in industrial settings. Skilled in using various tools and techniques such as deep learning, computer vision, and natural language processing to extract insights from complex data sets. Has a proven track record of designing and implementing successful machine learning projects for real-world applications.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="droghini.diego@gmail.com">droghini.diego@gmail.com</a>
+| <a href="https://www.linkedin.com/in/diego-droghini-a300ab88/">My Linkedin page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+AI research Scientis @ MFLX (an MFLTGroup division)
 
 ### Specialized in
 
